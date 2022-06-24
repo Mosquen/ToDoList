@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mosquen/ToDoList/static/css/main.3765b585.css",
+    "main.js": "/Mosquen/ToDoList/static/js/main.9f10b888.js",
+    "static/js/787.34d05ddd.chunk.js": "/Mosquen/ToDoList/static/js/787.34d05ddd.chunk.js",
+    "index.html": "/Mosquen/ToDoList/index.html",
+    "main.3765b585.css.map": "/Mosquen/ToDoList/static/css/main.3765b585.css.map",
+    "main.9f10b888.js.map": "/Mosquen/ToDoList/static/js/main.9f10b888.js.map",
+    "787.34d05ddd.chunk.js.map": "/Mosquen/ToDoList/static/js/787.34d05ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3765b585.css",
+    "static/js/main.9f10b888.js"
+  ]
+}
